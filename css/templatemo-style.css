@@ -101,6 +101,7 @@ a:hover {
 .parallax-window {
   min-height: 1200px;
   background: transparent;
+  background-size: 100%;
 }
 
 #tmContact {
